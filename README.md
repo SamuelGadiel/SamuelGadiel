@@ -1,25 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Gadiel
-=====================================================================================================================================
+# Samuel Gadiel
 
-Developer focused on cross platform mobile with Flutter
--------------------------------------------------------
+Mobile Tech Lead & Senior Flutter Engineer based in Brazil.
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [samuelgadiel@gmail.com](mailto:samuelgadiel@gmail.com)
-* 🚀  I'm currently working on [White-label e-commerce B2B apps](http://zydon.com.br)
-* 🧠  I'm learning DevOps with focused on automating apps publications
-* 🤝  I'm open to collaborating on Flutter projects
+I build cross-platform mobile apps and the infrastructure to ship them at scale.
+My most defining work: a white-label B2B platform with 100+ apps published on Google Play
+and the App Store, automated end-to-end with a CI/CD pipeline I built from scratch —
+Fastlane + Jenkins running on a self-configured macOS virtualized inside Docker.
 
-### Skills
+---
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+**What I work with**
 
-### Socials
+- **Mobile:** Flutter · Dart · Clean Architecture · BLoC · DDD · TDD
+- **DevOps:** Fastlane · Jenkins · GitHub Actions · Docker · Bash
+- **Cloud:** AWS (App Config · EC2 · S3 · Route 53 · ECS · CloudWatch) · Terraform
+- **Frontend:** React · TypeScript · Tailwind CSS · shadcn/ui
+- **Observability:** Grafana · Loki · Prometheus · Tempo
 
-<p align="left"> <a href="https://discord.com/users/780404525957513217" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/SamuelGadiel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/SamuelGadiel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/8575699" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-<b>Top Repositories</b>
+**Highlighted projects**
 
-<div width="100%" align="center"><a href="https://github.com/SamuelGadiel/mason_cat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelGadiel&repo=mason_cat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+- [mason_cat](https://github.com/SamuelGadiel/mason_cat) — Mason brick for Clean Architecture scaffolding in Flutter. Reduces module setup from hours to seconds. Published on [MasonHub](https://brickhub.dev/bricks/mason_cat).
+- [nand2tetris](https://github.com/SamuelGadiel/nand2tetris) — Full implementation of a computer from NAND gates up to an assembly language.
+- [sort_animation](https://github.com/SamuelGadiel/sort_animation) — Sorting algorithm visualizer in Flutter.
+
+---
+
+**Community**
+
+- Speaker at [The Developers Conference São Paulo 2024](https://thedevconf.com) — Flutter Macros
+- Speaker at FlutterRP Community (2022) — BLoC State Management
+
+---
+
+[LinkedIn](https://linkedin.com/in/samuelgadiel) · [Email](mailto:samuelgadiel@agapech.com.br)
