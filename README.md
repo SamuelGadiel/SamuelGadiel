@@ -13,9 +13,9 @@ Fastlane + Jenkins running on a self-configured macOS virtualized inside Docker.
 
 - **Mobile:** Flutter · Dart · Clean Architecture · BLoC · DDD · TDD
 - **DevOps:** Fastlane · Jenkins · GitHub Actions · Docker · Bash
-- **Cloud:** AWS (App Config · EC2 · S3 · Route 53 · ECS · CloudWatch) · Terraform
-- **Frontend:** React · TypeScript · Tailwind CSS · shadcn/ui
+- **Cloud:** Terraform · AWS (App Config · EC2 · S3 · Route 53 · ECS · CloudWatch)
 - **Observability:** Grafana · Loki · Prometheus · Tempo
+- **Frontend:** React · TypeScript · Tailwind CSS · shadcn/ui
 
 ---
 
