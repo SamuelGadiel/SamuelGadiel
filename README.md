@@ -21,7 +21,7 @@ Fastlane + Jenkins running on a self-configured macOS virtualized inside Docker.
 
 **Highlighted projects**
 
-- [mason_cat](https://github.com/SamuelGadiel/mason_cat) — Mason brick for Clean Architecture scaffolding in Flutter. Reduces module setup from hours to seconds. Published on [MasonHub](https://brickhub.dev/bricks/mason_cat).
+- [mason_cat](https://github.com/SamuelGadiel/mason_cat) — Mason brick for Clean Architecture scaffolding in Flutter. Reduces module setup from hours to seconds. Published on [MasonHub](https://brickhub.dev/bricks/cat).
 - [nand2tetris](https://github.com/SamuelGadiel/nand2tetris) — Full implementation of a computer from NAND gates up to an assembly language.
 - [sort_animation](https://github.com/SamuelGadiel/sort_animation) — Sorting algorithm visualizer in Flutter.
 
